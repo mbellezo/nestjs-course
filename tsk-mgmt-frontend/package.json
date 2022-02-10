@@ -9,7 +9,7 @@
     "mobx": "^5.15.6",
     "mobx-react": "^6.3.0",
     "mobx-react-router": "^4.1.0",
-    "node-sass": "^4.12.0",
+    "node-sass": "^7.0.0",
     "query-string": "^6.13.1",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
